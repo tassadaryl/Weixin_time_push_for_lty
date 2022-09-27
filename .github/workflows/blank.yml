@@ -1,4 +1,4 @@
-name: time-push
+name: Weixin_time_push_for_lty
 on:
   workflow_dispatch:
   schedule: 
