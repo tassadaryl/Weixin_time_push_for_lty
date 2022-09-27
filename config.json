@@ -1,0 +1,23 @@
+{
+    "app_id": "wx6de6dda3e5ef4c3e",
+    "app_secret": "2a7581c58b7be86cb339b30cbf21686b",
+    "template_id": "UYjzH5yKBnmDmhqjzklK1NfPVg4TjSgcy1GBtXM14Mw",
+    "user": [
+        "oDo4y523nMQBkf4JGIrHf30N2RJY",
+        "oDo4y56VRhF9mLefBVFmH352cd0w"
+    ],
+    "province": "江苏",
+    "city": "南京",
+    "birthday1": "",
+    "birthday2": "",
+    "birthday3": "1997-01-03",
+    "love_date": "2020-01-26",
+    "Whether_Eng": "",
+    "Whether_caihongpi": true,
+    "Whether_lizhi": false,
+    "Whether_tip": false,
+    "Whether_health": false,
+    "Whether_lucky": true,
+    "tianxing_API": "2e88767e3cee0a18e487184fadc8983a",
+    "astro": "pisces"
+}
